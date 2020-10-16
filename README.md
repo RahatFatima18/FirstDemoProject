@@ -1,5 +1,75 @@
 # FirstDemoProject
 
+task list
+
+- [X] Revision
+- [ ] prayer
+- [ ] Writing
+- [ ] Rest
+Watching TV
+
+Pakistan's biggest cities are:
+
+- Sindh
+    1. Hyderabad
+    2. Sukkur
+    3. Larkana
+
+- Sindh
+    1. Hyderabad
+    2. Sukkur
+    3. Larkana
+
+- Sindh
+    1. Hyderabad
+    2. Sukkur
+    3. Larkana
+
+- Sindh
+    1. Hyderabad
+    2. Sukkur
+    3. Larkana
+
+
+- Karachi
+1. Hyderabad
+2. Sukkur
+3. Larkana
+
+- Quetta
+1. Hyderabad
+2. Sukkur
+3. Larkana
+
+- Islamabad
+1. Hyderabad
+2. Sukkur
+3. Larkana
+
+- Lahore
+1. Hyderabad
+2. Sukkur
+3. Larkana
+
+- Peshawar
+1. Hyderabad
+2. Sukkur
+3. Larkana
+
+
+
+- Karachi
+- Quetta
+- Islamabad
+
+
+1. Karachi
+2. Quetta
+3. Islamabad
+
+
+my name is `Muhammad Hussain`
+
 Some basic Git commands are:
 ```
 git status
